@@ -1,0 +1,7 @@
+path: ./datasets/nypd_total
+train: images/train/
+val: images/val/
+test: #
+
+nc: 2
+names: [ 'police officer', 'police vehicle']
